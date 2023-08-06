@@ -5,7 +5,7 @@ Analyzing electric vehicle sales data to identify factors influencing sales drop
 **Electric Vehicle Sales Drop**
 
 **Project Overview**
-This SQL project is part of bluetick.ai's micro experience with the objective to determine the likely cause for the sales drop of the Zoom electric scooters. The project aims to understand the sudden decline in sales of the newly launched Sprint scooter model and identify potential factors affecting sales.
+This SQL project is part of bluetick.ai, with the objective to determine the likely cause for the sales drop of the Zoom electric scooters. The project aims to understand the sudden decline in sales of the newly launched Sprint scooter model and identify potential factors affecting sales.
 
 **Problem Statement**
 Zoom Electric (ZE) introduced the Sprint scooter in the electric two-wheeler segment, initially experiencing impressive sales during the first two weeks of its launch. However, sales unexpectedly dropped thereafter. The project seeks to analyze data to find possible reasons for this decline.
